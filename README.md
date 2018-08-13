@@ -8,7 +8,7 @@ Note: If you are using the Learn IDE, you'll have to download the files to your 
 
 Note too that your file structure might differ from what's in the video. That's okay! Just code along as best you can — we know that you're quite capable of filling in any gaps!
 
-Finally, because this is a simple code-along, you won't actually have to submit anything at the end (unlike in the video).
+Finally, because this issa simple code-along, you won't actually have to submit anything at the end (unlike in the video).
 
 (And yes, we'll be updating the video ASAP!)
 
